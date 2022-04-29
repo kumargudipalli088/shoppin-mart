@@ -1,0 +1,18 @@
+.authe{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../backgroundsvg/b.svg");
+    background-size: 100% 100%;
+}
+
+
+.authe .ant-row{
+    width: 100%;
+    justify-content: center;
+}
+
+.authe form {
+   background-color: whitesmoke; 
+   padding: 20px;
+}
